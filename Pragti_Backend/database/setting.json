@@ -1,0 +1,37 @@
+{
+    "username": "username_value",
+    "api": {
+        "google": "api_key_value"
+    },
+    "currency": "$",
+    "setting": {
+        "theme": "dark",
+        "notifications": true,
+        "apps": {
+            "todo": {
+                "enabled": true
+            },
+            "habit_tracker": {
+                "enabled": true
+            },
+            "alarm": {
+                "enabled": true
+            },
+            "remember": {
+                "enabled": true
+            },
+            "revision": {
+                "enabled": true
+            },
+            "expenses": {
+                "enabled": true
+            },
+            "scheduler": {
+                "enabled": true
+            },
+            "ai": {
+                "enabled": true
+            }
+        }
+    }
+}
